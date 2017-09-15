@@ -1,0 +1,75 @@
+<resources>
+
+    <string name="app_name">Finance+</string>
+    <string name="title_activity_blogs">blogs</string>
+    <string name="title_activity_calculator">calculator</string>
+    <string name="title_activity_tvm">tvm</string>
+    <string name="title_activity_retirement">retirement</string>
+    <string name="title_activity_currency">currency</string>
+    <string name="title_activity_loan">loan</string>
+    <string name="title_activity_nav">nav</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_blogs">Blogs</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about_us">About Us</string>
+    <string name="nav_contact_us">Contact Us</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="name">
+        <item>Indian Rupee</item>
+        <item>US Dollar</item>
+        <item>European Union Euro</item>
+        <item>Canadian Dollar</item>
+        <item>Australian Dollar</item>
+        <item>Singapore Dollar</item>
+    </string-array>
+    <string-array name="value">
+        <item>INR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>SGD</item>
+    </string-array>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Blog</item>
+        <item>Calculator</item>
+        <item>Portfolio</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy">Welcome to the mobile application of Finance+. Use of the Finance+ mobile application , information, services, and content distributed through or in conjunction with or made available on the mobile application , through plug-ins or any other means (collectively, the �Services�) is subject to your acceptance of these Terms and Conditions, our Privacy Policy, and any other notices or amendments posted through the Services.
+
+By accessing and using the Services, or any of the information and/or content presented in any areas of the Services, you are acknowledging that you have read and agree to be bound by these Terms and Conditions, our Privacy Policy, and other notices posted through the Services. You further warrant and covenant that you have the power and authority to enter into this agreement. If you do not acknowledge and agree with the above, you may not access or use Finance+\�s content or Services.
+
+BECAUSE THESE TERMS AND CONDITIONS IMPOSE LEGAL OBLIGATIONS UPON YOU, IT IS IMPORTANT THAT YOU READ THEM CAREFULLY.
+Finance+ shall have the right, at its sole discretion, to modify, add, or remove any terms or conditions of these Terms and Conditions at any time (�Changes�). You will be notified of any Changes through a posting , a notification in the Services, or via e-mail. Any Changes shall be effective 5 (five) calendar days following the posting of such Changes (the �New Effective Date�) . You agree to review these Terms and Conditions from time to time and agree that any subsequent use by you of the Services following the New Effective Date shall constitute your acceptance of all such Changes. If you do not agree to any or all of the Changes, you must stop using the Services immediately and notify Finance+ via e-mail at financeplus@gmail.com</string>
+    <string name="contact"> Thank you for your interest in Finance+\'s services.We Want to hear from you.</string>
+    <string name="welcome">Welcome to Finance+ � an information resource designed to help you learn more about personal finance.
+        Click around and you\'ll find a variety of financial tools.
+        There are financial calculators that can help you get a clearer picture of where you stand and where you\'re headed.
+        There is Financial portfolio that helps you managing and optimising your own portfolio.
+        You can even visit related websites for insurance or investment product.We also have Financial blogs ,designed to keep you up-to-date on financial issues, strategies, and trends. And check back often, because we\'re constantly adding new material.
+        If you have a specific question or want more information, click on Contact Us, drop us an e-mail message at [financeplus@gmail.com], or call us at [7838081242]. We\'re ready to help.</string>
+
+
+</resources>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryLight">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_weight="0.06">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="87dp"
+                android:layout_height="112dp"
+                app:srcCompat="@mipmap/ic_launcher"
+                android:id="@+id/imageView3"
+                android:scaleType="fitXY"
+                android:layout_margin="15sp" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_weight="0.47">
+
+            <TextView
+                android:text="Topic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/topic"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/colorPrimary" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="1">
+
+                <TextView
+                    android:text="by :"
+                    android:layout_width="54dp"
+                    android:layout_height="match_parent"
+                    android:id="@+id/textView13"
+                    android:textAppearance="@style/TextAppearance.AppCompat"
+                    android:textSize="14sp"
+                    android:textAllCaps="true"
+                    android:textStyle="normal|bold"
+                    android:textColor="@color/colorPrimary"
+                    android:layout_weight="0.05"
+                    android:textAlignment="center"
+                    android:gravity="center" />
+
+                <TextView
+                    android:text="blog_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="52dp"
+                    android:layout_gravity="center_vertical"
+                    android:textAlignment="viewStart"
+                    android:id="@+id/blog_name"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorPrimary"
+                    android:layout_weight="0.50"
+                    android:gravity="center"
+                    android:paddingLeft="5sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="187dp"
+                android:layout_height="30dp">
+
+                <TextView
+                    android:text="Likes : "
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:textStyle="bold"
+
+                    android:id="@+id/like_tag"
+                    android:textColor="?attr/colorPrimary"
+                    android:textAllCaps="true"
+                    android:padding="5sp"
+                    android:textAlignment="viewStart"
+                    android:gravity="center" />
+
+                <TextView
+                    android:text="18"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/like_count"
+                    android:layout_weight="1"
+                    android:padding="5sp"
+                    android:textStyle="normal|bold"
+                    android:textColor="@color/colorPrimary"
+                    android:textAlignment="viewStart"
+                    android:gravity="center" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:text="Subject :"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView4"
+                    android:textSize="14sp"
+                    android:textColor="@color/colorPrimary"
+                    android:gravity="center"
+                    android:textAllCaps="true"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Economic Disparity"
+                    android:id="@+id/sub"
+                    android:textSize="14sp"
+                    android:layout_width="114dp"
+                    android:layout_height="57dp"
+                    android:textAlignment="viewStart"
+                    android:textStyle="normal|bold|italic"
+                    android:textColor="@color/colorPrimary"
+                    android:gravity="center"
+                    android:paddingLeft="5sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:textAlignment="center"
+        android:id="@+id/blog_text"
+        android:layout_weight="0.29"
+        android:textColor="@color/colorPrimary"
+        android:padding="5sp"
+        android:layout_marginTop="5sp"
+        android:minLines="5"
+        android:maxLines="7" />
+</LinearLayout>
+

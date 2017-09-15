@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calculators">
+        <item>Loan Calculator</item>
+        <item>Currency Calculator</item>
+        <item>Retirement Calculator</item>
+        <item>TVM Calculator</item>
+        <item>Tip Calculator</item>
+        <item>Discount Calculator</item>
+        <item>Percentage Calculator</item>
+        <item>Age Calculation</item>
+    </string-array>
+    <string-array name="ccalculators">
+        <item>Loan Calculator</item>
+        <item>Currency Calculator</item>
+        <item>Retirement Calculator</item>
+        <item>TVM Calculator</item></string-array>
+    <string-array name="mcalculators">
+        <item>Tip Calculator</item>
+        <item>Discount Calculator</item>
+        <item>Percentage Calculator</item>
+        <item>Age Calculation</item>
+    </string-array>
+    <string-array name="details">
+        <item>This loan calculator will help you determine the monthly payments on a loan. Simply enter the loan amount, term and interest rate in the fields below and click calculate. This calculator can be used for mortgage, auto, or any other fixed loan types.</item>
+        <item>
+Timing is key when transferring currency, so whether you’re changing dollars to pounds or you’re after something a little more exotic, we’re on hand to help you out.
+        </item>
+        <item>Retirement can be the saddest or happiest day of your life. This pre-retirement calculator will help you determine how well you have prepared and what you can do to improve your retirement outlook. It is important that you re-evaluate your preparedness on an ongoing basis. Changes in economic climate, inflation, achievable returns, and in your personal situation will impact your plan.
+        </item>
+        <item>The time value of money (TVM) is the idea that money available at the present time is worth more than the same amount in the future due to its potential earning capacity. This core principle of finance holds that, provided money can earn interest, any amount of money is worth more the sooner it is received.</item>
+        <item>Tip Calculator splits the bill fast, great for dining and drinks with friends!
+★ Splits Bill!
+★ Round Up/Down!
+★ Fast, Precise, Perfect!
+★ Quiet Operation!
+Use our tip calculator free to split the bill, calculate percentages for drinks, dinner, food, at the bar. Save time when you use our bill splitter, and tip exactly what you mean to, no more, no less!</item>
+        <item>Out shopping and see an item on sale?Quickly determinate how much you will save and what the final price will be after applying the discount with Discount Calculator.You can use this app for calculate discounts and percentages.Discount Calculator is helpful for shopping and is the perfect couple for shoppers who loves promotions.Discount Calculator also is worth for calculate tips and of course, it will help you to save money.
+  </item>
+<item> Our percentage calculator is perfect for anyone that wants to save time in calculating many different percentages as well as for anyone that is not good at math! This percentage calculator calculates percentages based on various inputs including ratios, fractions, percentage grades, statistics and percentage increase/decrease.
+</item>
+<item>Age Calculator, is a real age calculator app. It is free age calculator.This application calculates your age on the basis of your date of birth.Results that it shows are accurate and are just based date of birth.The age calculator app free, finds your age in years , days and month.
+</item>
+    </string-array>
+    <array name="tile_pictures">
+        <item>@drawable/a_loanc</item>
+        <item>@drawable/a_currency</item>
+        <item>@drawable/a_saving</item>
+        <item>@drawable/a_tvm</item>
+        <item>@drawable/tips</item>
+        <item>@drawable/discount</item>
+        <item>@drawable/percentage</item>
+        <item>@drawable/age</item>
+    </array>
+    <array name="misc_pictures">
+        <item>@drawable/tips</item>
+        <item>@drawable/discount</item>
+        <item>@drawable/percentage</item>
+        <item>@drawable/age</item>
+    </array>
+    <array name="card_pictures">
+        <item>@drawable/loan</item>
+        <item>@drawable/currency</item>
+        <item>@drawable/retirement</item>
+        <item>@drawable/tvm</item>
+    </array>
+    <string-array name="currencies_array">
+        <item>Euro</item>
+        <item>Japanese Yen</item>
+        <item>US Dollar</item>
+        <item>Bulgarian Lev</item>
+        <item>Czech Koruna</item>
+        <item>Danish krone</item>
+        <item>British Pound</item>
+        <item>Hungarian Forint</item>
+        <item>Lithuanian Litas</item>
+        <item>Polish Złoty</item>
+        <item>Romanian Leu</item>
+        <item>Swedish Krona</item>
+        <item>Swiss Franc</item>
+        <item>Norwegian Krone</item>
+        <item>Croatian Kuna</item>
+        <item>Russian Ruble</item>
+        <item>Turkish Lira</item>
+        <item>Australian Dollar</item>
+        <item>Brazilian real</item>
+        <item>Canadian Dollar</item>
+        <item>Chinese Yuan</item>
+        <item>Hong Kong Dollar</item>
+        <item>Indonesian Rupiah</item>
+        <item>Israeli New Sheqel</item>
+        <item>Indian Rupee</item>
+        <item>South Korean won</item>
+        <item>Mexican Peso</item>
+        <item>Malaysian Ringgit</item>
+        <item>New Zealand Dollar</item>
+        <item>Philippine Peso</item>
+        <item>Singapore Dollar</item>
+        <item>Thai Baht</item>
+        <item>South African Rand</item>
+    </string-array>
+</resources>

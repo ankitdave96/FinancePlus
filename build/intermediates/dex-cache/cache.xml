@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_58d0bf6146963b81f7eeeeb9027c7aec6ede275e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_a3346e3fabfcd8c54ca06b30047b33a540bb22b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_c7ae5c27dabc295c4dd648cc823154f9e8b210cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_70a94037a38bcf43d3553a0171229007896afa1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_311b426bbd9712b74ddf3108bdd0dfa6da2aa5a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_81ec1f6e4873bebb14e2bf3ee0dda76443732819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_990e604ce6084a4282cc5592fac697dec38e66fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_9fd3b5f7401f350068104f2970851802b05420fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_67e005eee0bbb91786cc5183a24668a2851951b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_46b085bb9d030e456ccc574a0c08038ef9406aee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_5e8d527b8090ec58a17bdb06d6f563a2249ea542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_1a0133b185953151f5d1224fc6db3cb1ab942944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_9c699d7459fde879fbc0c773290127e3e3b390d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cdf6079e9b44ca79ce23dbb5d399715c2463b186\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b8d424e7e72b652c723148fef2081ac16d872fb">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9cc965a074bbcfe6fab309ac56f286df11504362\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.slider-library-1.1.5_45f952f3a49ddbb477093011c5a4db3142ddcc8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_a990e5d4e227a050805a3cd2be56bc3dd8730f14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a7a41581b10224c59dc171a900713e8e708ce977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7c8b2e912bc700c5c7e9e0222e4d0a3c7e9885b">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b510b415062b505813abc124dc0736989442ba9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d88f6c08a9bbf0328c04c153cc6e82a3cb308fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_0561b89f2a79400bffb3100ed2f9900b3957808f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_9a490965c61d03577a9940cb83df90d5db952b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_3cd3c25c76e2ae04e89a596fb3c8e14c6ccf3187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_378b3f753eb10a69b5534964a234f58d89173a68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_413d29bb3fe952c340a9328e5b371c17e38dc69e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_735537c85958c66f8845f0010ed44637ba643732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_e727a3b7e1b5228222e5509f4c2283e8f0b3a116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_ba854b7e0b7b8533ba642d472f185fc2a3c34fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JEEVANSHU\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.1\645f1ad2f6f4cbad1cde4c483eae71e4051be6ef\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
+        <dex dex="C:\Users\JEEVANSHU\AndroidStudioProjects\Finance+\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.1_898dfc2dc55c50e489e89e82cee9395591a7d0b2\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="example.com.finance.second"
+    android:background="@color/common_action_bar_splitter">
+
+
+    <com.daimajia.slider.library.SliderLayout
+        android:id="@+id/slider"
+        android:layout_width="fill_parent"
+        android:layout_below="@+id/textView2"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:text="LOGIN NOW!"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="48dp"
+            android:id="@+id/login"
+            android:textSize="24sp"
+            android:visibility="visible"
+            android:background="@color/colorPrimaryLight"
+            android:textColor="@color/colorAccent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </com.daimajia.slider.library.SliderLayout>
+
+</RelativeLayout>

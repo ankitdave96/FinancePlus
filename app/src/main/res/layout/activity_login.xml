@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    tools:context=".login"
+    android:background="@color/colorPrimaryLight">
+
+    <LinearLayout
+    android:id="@+id/activity_login"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="example.com.finance.login"
+    android:orientation="vertical"
+    android:padding="30dp"
+        android:weightSum="1"
+    android:background="@android:color/background_light"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:layout_marginTop="15sp"
+        android:layout_margin="20dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/icon"
+                android:id="@+id/imageView" />
+
+            <TextView
+            android:text="Finance +"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:textColor="@android:color/black"
+            android:fontFamily="serif"
+            android:textStyle="normal|bold"
+            android:padding="10sp"
+                android:layout_weight="1"
+                android:textAlignment="viewStart" />
+        </LinearLayout>
+
+        <EditText
+        android:layout_width="252dp"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:layout_marginTop="19dp"
+        android:id="@+id/email"
+        android:hint="ENTER EMAIL-ID"
+        android:textSize="18sp"
+        android:textColorHint="@color/colorAccent"
+        android:textColor="@color/colorAccent"
+        android:selectAllOnFocus="true" />
+
+    <EditText
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:layout_marginTop="18sp"
+        android:id="@+id/password"
+        android:hint="ENTER PASSWORD"
+        android:textColorHint="@color/colorAccent"
+        android:textColor="@color/colorAccent"
+        android:textSize="18sp"
+        android:selectAllOnFocus="true" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:layout_width="315dp"
+        android:layout_weight="0.08">
+
+        <Button
+            android:text="LOG IN"
+            android:layout_width="288dp"
+            android:layout_height="match_parent"
+            android:id="@+id/login"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:textAlignment="center"
+            android:padding="10sp"
+            android:background="@color/white"
+            android:textStyle="normal|bold" />
+
+        <Button
+            android:text="Forgot Password?"
+            android:layout_width="133dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/rounded"
+            android:textColor="@color/button_grey"
+            android:textStyle="normal|bold"
+            android:textAllCaps="false"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="17sp"
+            android:id="@+id/forgot"
+            android:layout_marginTop="10dp"
+            android:visibility="visible"
+            android:textAlignment="viewEnd"
+            android:layout_marginLeft="120dp"
+            android:padding="5sp" />
+
+        <Button
+            android:text="No Account Yet? Create one!"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/signup"
+            android:textSize="17sp"
+            android:textColor="@android:color/black"
+            android:textStyle="normal|bold|italic"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:background="@color/white"
+            android:padding="10sp"
+            android:layout_marginTop="10sp"
+            android:drawableLeft="@android:drawable/ic_input_add"
+            android:cursorVisible="true"
+            android:contextClickable="true" />
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
